@@ -1,6 +1,6 @@
 # Radamés Marcellino Ferreira 👨‍💻
 
-**Estudante de Ciência da Computação** na SENAC | Apaixonado por desenvolvimento de software e resolução de problemas.
+**Estudante de Ciência da Computação** no SENAC | Apaixonado por desenvolvimento de software e resolução de problemas.
 
 ---
 
